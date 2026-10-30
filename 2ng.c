@@ -1,3 +1,10 @@
+/*Question 2 Constant recognition
+
+Handwrite a C program to recognize whether an input string is a numeric constant, such as an integer or a decimal number.
+
+Input: 25.75
+
+Output: Numeric constant*/
 #include <stdio.h>
 #include <ctype.h>
 

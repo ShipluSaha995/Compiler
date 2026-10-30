@@ -1,3 +1,11 @@
+/*Question 4 Comment type recognition
+
+Handwrite a C program to recognize whether the input is a single-line comment, a block comment, or not a comment.*/
+
+//Input: /*Hello*/
+
+//Output: Block comment
+
 #include <stdio.h>
 #include <string.h>
 

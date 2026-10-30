@@ -1,3 +1,11 @@
+/*Question 3 Comment recognition and letter counting
+
+Handwrite a C program to recognize a comment and count the alphabetic letters inside it. Exclude comment delimiters, spaces, digits, and punctuation from the count.
+
+Input: //Hello
+
+Output: It is a comment. Number of letters = 5*/
+
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
